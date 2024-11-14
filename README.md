@@ -4,3 +4,5 @@
 - 💞️ I’m looking to collaborate on anything
 - 📫 How to reach me xolotl.mictl4n@gmail.com
 - ⚡ Fun fact: I like sushi
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Xo1otl)](https://github.com/anuraghazra/github-readme-stats)
