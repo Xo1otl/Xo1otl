@@ -5,4 +5,4 @@
 - 📫 How to reach me xolotl.mictl4n@gmail.com
 - ⚡ Fun fact: I like sushi
 
-[changelog](https://www.gitclear.com/snap_changelogs/a1784ec3-5f7e-427c-964b-b61004fa481c.png)
+<img src='https://www.gitclear.com/chart_glimpses/46448a31-5a86-4785-8ec8-3457d925905c.png' />
