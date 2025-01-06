@@ -2,7 +2,7 @@
 - 👀 I’m interested in everything
 - 🌱 I’m currently learning everything
 - 💞️ I’m looking to collaborate on anything
-- 📫 How to reach me xolotl.mictl4n@gmail.com
+- 📫 How to reach me xolotl@mictlan.site
 - ⚡ Fun fact: I like sushi
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Xo1otl&theme=default)
